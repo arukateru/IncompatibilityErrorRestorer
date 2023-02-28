@@ -1,0 +1,17 @@
+C:\Users\Alcatel\source\repos\WinFormsApp1\bin\Release\net6.0-windows\win-x64\WinFormsApp1.exe
+C:\Users\Alcatel\source\repos\WinFormsApp1\bin\Release\net6.0-windows\win-x64\WinFormsApp1.deps.json
+C:\Users\Alcatel\source\repos\WinFormsApp1\bin\Release\net6.0-windows\win-x64\WinFormsApp1.runtimeconfig.json
+C:\Users\Alcatel\source\repos\WinFormsApp1\bin\Release\net6.0-windows\win-x64\WinFormsApp1.dll
+C:\Users\Alcatel\source\repos\WinFormsApp1\bin\Release\net6.0-windows\win-x64\WinFormsApp1.pdb
+C:\Users\Alcatel\source\repos\WinFormsApp1\obj\Release\net6.0-windows\win-x64\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Alcatel\source\repos\WinFormsApp1\obj\Release\net6.0-windows\win-x64\WinFormsApp1.Form1.resources
+C:\Users\Alcatel\source\repos\WinFormsApp1\obj\Release\net6.0-windows\win-x64\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Alcatel\source\repos\WinFormsApp1\obj\Release\net6.0-windows\win-x64\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alcatel\source\repos\WinFormsApp1\obj\Release\net6.0-windows\win-x64\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Alcatel\source\repos\WinFormsApp1\obj\Release\net6.0-windows\win-x64\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Alcatel\source\repos\WinFormsApp1\obj\Release\net6.0-windows\win-x64\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alcatel\source\repos\WinFormsApp1\obj\Release\net6.0-windows\win-x64\WinFormsApp1.dll
+C:\Users\Alcatel\source\repos\WinFormsApp1\obj\Release\net6.0-windows\win-x64\refint\WinFormsApp1.dll
+C:\Users\Alcatel\source\repos\WinFormsApp1\obj\Release\net6.0-windows\win-x64\WinFormsApp1.pdb
+C:\Users\Alcatel\source\repos\WinFormsApp1\obj\Release\net6.0-windows\win-x64\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Alcatel\source\repos\WinFormsApp1\obj\Release\net6.0-windows\win-x64\ref\WinFormsApp1.dll
